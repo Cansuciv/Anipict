@@ -81,48 +81,48 @@ Bu proje, görüntüler üzerinde hem **image classification** (resim sınıflan
     - Akdeniz Münzevi Örümceği: 3030
     - Anadolu Sarı Akrebi: 3535
     - Kara Akrep: 2740
-    Katil Arı: 87
-    Yaprak Biti: 90
-    Ordu Kurtları: 753
-    Batı Mısır Kök Kurdu: 105
-    Kahverengi Kokarca Böceği: 558
-    Cabbage Loopers: 90
-    Lahana Tırtılları: 720
-    Charybdis Natator: 722
-    Narenciye Kanseri: 87
-    Colorado Patates Böcekleri: 87
-    Mısır Kurdu: 87
-    Mısır Yuvarlak Kurdu: 186
-    Sonbahar Ordu Kurdu: 90
-    Sirke Sineği: 207
-    Heterometrus indus: 221
-    Heterometrus swammerdami: 291
-    Hottentotta jayakari: 137
-    Hottentotta tamulus: 248
-    Leiurus quinquestriatus: 274
-    İmparator Akrep: 76
-    Patates Böceği: 87
-    Kum Yengeci: 728
-    Portunus sanguinolentus: 688
-    Kırmızı Örümcek: 358
-    Trips: 102
-    Tomato Hornworms: 595
-    Zosimus aeneus: 84
-    Mavi Yengeç: 742
-    Kemancı Yengeç: 55
-    Hayalet Boynuzlu Yengeç: 43
-    Legume blister beetle: 69
-    Sally Lightfoot Yengeci: 242
-    Çamur Yengeci: 48
-    Pirinç Gal Sineği: 50
-    Pirinç Yaprak Kıvırıcısı: 265
-    Rice leafhopper: 250
-    Rice water weevil: 252
-    Genel “Akrepler” sınıfı: 257
-    Florida Taş Yengeci: 3
-    Wheat phloeothrips: 66
-    Beyaz Sırtlı Bitki Zararlısı: 246
-    Yellow Rice Borer: 256
+    - Katil Arı: 87
+    - Yaprak Biti: 90
+    - Ordu Kurtları: 753
+    - Batı Mısır Kök Kurdu: 105
+    - Kahverengi Kokarca Böceği: 558
+    - Cabbage Loopers: 90
+    - Lahana Tırtılları: 720
+    - Charybdis Natator: 722
+    - Narenciye Kanseri: 87
+    - Colorado Patates Böcekleri: 87
+    - Mısır Kurdu: 87
+    - Mısır Yuvarlak Kurdu: 186
+    - Sonbahar Ordu Kurdu: 90
+    - Sirke Sineği: 207
+    - Heterometrus indus: 221
+    - Heterometrus swammerdami: 291
+    - Hottentotta jayakari: 137
+    - Hottentotta tamulus: 248
+    - Leiurus quinquestriatus: 274
+    - İmparator Akrep: 76
+    - Patates Böceği: 87
+    - Kum Yengeci: 728
+    - Portunus sanguinolentus: 688
+    - Kırmızı Örümcek: 358
+    - Trips: 102
+    - Tomato Hornworms: 595
+    - Zosimus aeneus: 84
+    - Mavi Yengeç: 742
+    - Kemancı Yengeç: 55
+    - Hayalet Boynuzlu Yengeç: 43
+    - Legume blister beetle: 69
+    - Sally Lightfoot Yengeci: 242
+    - Çamur Yengeci: 48
+    - Pirinç Gal Sineği: 50
+    - Pirinç Yaprak Kıvırıcısı: 265
+    - Rice leafhopper: 250
+    - Rice water weevil: 252
+    - Genel “Akrepler” sınıfı: 257
+    - Florida Taş Yengeci: 3
+    - Wheat phloeothrips: 66
+    - Beyaz Sırtlı Bitki Zararlısı: 246
+    - Yellow Rice Borer: 256
 
 #### Performans
 - **mAP@0.5**: 0.98 -> Model, nesneleri %97.79 doğrulukla tespit ediyor (düşük IoU threshold'unda çok yüksek performans).
