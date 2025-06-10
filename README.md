@@ -30,7 +30,7 @@ Bu proje, görüntüler üzerinde hem **image classification** (resim sınıflan
 - Norduz Keçisi (29)
 - Saanen Keçisi (212)
 - Yaban Keçisi (1296)
-> Ayrıca, **Halep** ve **Yaban keçisi** birlikte bulunan 17 görsel mevcut.
+- Ayrıca, **Halep** ve **Yaban keçisi** birlikte bulunan 17 görsel mevcut.
 
 #### Performans
 - **mAP@0.5**: 0.87 -> Model, nesneleri %87 doğrulukla tespit ediyor (yüksek IoU threshold'unda bile iyi performans).
@@ -76,7 +76,14 @@ Bu proje, görüntüler üzerinde hem **image classification** (resim sınıflan
 
 - 45 farklı tür üzerinde nesne tespiti yapılmıştır
 - Toplam görüntü sayısı: **20,232**
-- Veri setleri: Roboflow'dan 8 farklı kaynak birleştirildi
+- Veri setleri:  Roboflow’dan 7 farklı kaynaktan veri seti bulunmuştur. Ek olarak “Akdeniz Münzevi Örümceği, Anadolu Sarı Akrebi, Kara Akrep”türlerini içeren bir veri seti hazırlandı. Sonra toplam bu 8 veri seti birleştirildi. Hazır alınan veri setleri:
+  - https://universe.roboflow.com/project-lnrc3/zararli-bocekler 
+  - https://universe.roboflow.com/4702/dangerous-farm-insects-dataset 
+  - https://universe.roboflow.com/insects-tibsl/insects-vtdmw 
+  - https://universe.roboflow.com/nirmani/yolo-custome 
+  - https://universe.roboflow.com/dave-ellomar-jamilla-qzlwc/crab-classification-4 
+  - https://universe.roboflow.com/rolex-tgyvd/scorpion-detection1 
+  - https://universe.roboflow.com/crab-x2izg/my-first-project-1ev5n 
 - Eğitilen türlerden bazıları:
     - Akdeniz Münzevi Örümceği: 3030
     - Anadolu Sarı Akrebi: 3535
@@ -139,7 +146,7 @@ Bu proje, görüntüler üzerinde hem **image classification** (resim sınıflan
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
 
 - [YOLOv8](https://github.com/ultralytics/ultralytics)
-- [YOLOv11](https://github.com/WongKinYiu/yolov11) (deneysel sürüm)
+- [YOLOv11](https://github.com/WongKinYiu/yolov11)
 - Google Colab & Kaggle (GPU desteği)
 - Roboflow (veri artırma ve dönüştürme)
 - Makesense.ai (etiketleme)
