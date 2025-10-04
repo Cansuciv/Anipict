@@ -21,8 +21,9 @@ client = Groq(api_key=GROQ_API_KEY)
 # -----------------------------
 # YOLO modelleri
 # -----------------------------
-surungen_model = YOLO("SurungenBocek_best.pt")
-keciler_model = YOLO("keciler_best.pt")
+surungen_model = YOLO("anipict-detection-api/SurungenBocek_best.pt")
+keciler_model = YOLO("anipict-detection-api/keciler_best.pt")
+
 
 # -----------------------------
 # Confidence threshold
