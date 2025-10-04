@@ -3,4 +3,5 @@ uvicorn
 pillow
 ultralytics
 python-dotenv
+python-multipart
 groq
