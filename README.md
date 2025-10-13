@@ -1,4 +1,4 @@
-🐐 Keçi Türleri & Böcek/Sürüngen Tespiti – YOLOv8 / YOLOv11 Projesi
+# 🐐 Keçi Türleri & Böcek/Sürüngen Tespiti – YOLOv8 / YOLOv11 Projesi
 
 Bu proje, görüntüler üzerinde hem image classification (resim sınıflandırma) hem de object detection (nesne tespiti) tekniklerini kullanarak iki temel alanda çalışır:
 
