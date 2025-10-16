@@ -63,7 +63,7 @@ Zararlı Böcekler, Sürüngenler, Akrepler, Yengeçler gibi canlıların tespit
 - Video üzerinden tahminlerde `ONNX` dönüştürmesi yapıldı
 
 #### Veri Seti
-Toplam Görüntü: 10,517 (veri artırımı sonrası)
+Toplam Görüntü: 10.517 (veri artırımı sonrası)
 Veri artırımı sayesinde tüm keçi türleri için dengeli örnek sayısı sağlanmıştır:
 - Ankara Keçisi: 1023
 - Halep Keçisi: 765
@@ -114,7 +114,7 @@ Veri artırımı sayesinde tüm keçi türleri için dengeli örnek sayısı sa�
 ### 3. Böcek, Sürüngen ve Akrep Tespiti (YOLOv11n)
 
 - 22 farklı tür üzerinde nesne tespiti yapılmıştır
-- Toplam görüntü sayısı: **31.195  **
+- Toplam görüntü sayısı: 31.195  
 - Veri setleri:  Roboflow’dan 7 farklı kaynaktan veri seti bulunmuştur. Ek olarak “Akdeniz Münzevi Örümceği, Anadolu Sarı Akrebi, Kara Akrep”türlerini içeren bir veri seti hazırlandı. Sonra toplam bu 8 veri seti birleştirildi. Hazır alınan veri setleri:
   - https://universe.roboflow.com/project-lnrc3/zararli-bocekler 
   - https://universe.roboflow.com/4702/dangerous-farm-insects-dataset 
